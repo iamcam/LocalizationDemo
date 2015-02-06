@@ -10,9 +10,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var introLabel: UILabel!
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        introLabel?.text = NSLocalizedString("Hello, World! It's great to see you.", comment: "A friendly greeting presented to the user when first opening the app.");
+        
     }
 
     override func didReceiveMemoryWarning() {
