@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; accessibilityHint = "Continue to the next screen"; ObjectID = "LXb-Ez-OLh"; */
+"LXb-Ez-OLh.accessibilityHint" = "Continue to the next screen";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Continue"; ObjectID = "LXb-Ez-OLh"; */
+"LXb-Ez-OLh.accessibilityLabel" = "Continue";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "LXb-Ez-OLh"; */
+"LXb-Ez-OLh.normalTitle" = "Continue";
+
+/* Class = "IBUILabel"; accessibilityLabel = "Application Description"; ObjectID = "m0m-89-4YV"; */
+"m0m-89-4YV.accessibilityLabel" = "Application Description";
+
+/* Class = "IBUILabel"; text = "This is placeholder text for the UI label."; ObjectID = "m0m-89-4YV"; */
+"m0m-89-4YV.text" = "This is placeholder text for the UI label.";
+
+/* Class = "IBUILabel"; text = "Welcome!"; ObjectID = "xQG-JD-5oq"; */
+"xQG-JD-5oq.text" = "Welcome!";

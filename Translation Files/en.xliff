@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="LocalizationDemo/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 Pivotal Action, Inc. All rights reserved.</source>
+        <note>Class = "IBUILabel"; text = "  Copyright (c) 2015 Pivotal Action, Inc. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>LocalizationDemo</source>
+        <note>Class = "IBUILabel"; text = "LocalizationDemo"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationDemo/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="LXb-Ez-OLh.accessibilityHint">
+        <source>Continue to the next screen</source>
+        <note>Class = "IBUIButton"; accessibilityHint = "Continue to the next screen"; ObjectID = "LXb-Ez-OLh";</note>
+      </trans-unit>
+      <trans-unit id="LXb-Ez-OLh.accessibilityLabel">
+        <source>Continue</source>
+        <note>Class = "IBUIButton"; accessibilityLabel = "Continue"; ObjectID = "LXb-Ez-OLh";</note>
+      </trans-unit>
+      <trans-unit id="LXb-Ez-OLh.normalTitle">
+        <source>Continue??</source>
+        <note>Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "LXb-Ez-OLh";</note>
+      </trans-unit>
+      <trans-unit id="m0m-89-4YV.accessibilityLabel">
+        <source>Application Description</source>
+        <note>Class = "IBUILabel"; accessibilityLabel = "Application Description"; ObjectID = "m0m-89-4YV";</note>
+      </trans-unit>
+      <trans-unit id="m0m-89-4YV.text">
+        <source>This is placeholder text for the UI label.</source>
+        <note>Class = "IBUILabel"; text = "This is placeholder text for the UI label."; ObjectID = "m0m-89-4YV";</note>
+      </trans-unit>
+      <trans-unit id="qQh-0N-CNq.text">
+        <source>Storyboard value</source>
+        <note>Class = "IBUITextView"; text = "Storyboard value"; ObjectID = "qQh-0N-CNq";</note>
+      </trans-unit>
+      <trans-unit id="xQG-JD-5oq.text">
+        <source>Welcome!</source>
+        <note>Class = "IBUILabel"; text = "Welcome!"; ObjectID = "xQG-JD-5oq";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationDemo/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationDemo/en.lproj/Localizable.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="Message_GreetingText">
+        <source>Hello, 🌎! It's great to see you.</source>
+        <note>A friendly greeting presented to the user when first opening the app.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationDemoTests/Info.plist" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        introLabel?.text = NSLocalizedString("Hello, World! It's great to see you.", comment: "A friendly greeting presented to the user when first opening the app.");
+        introLabel?.text = NSLocalizedString("Message_GreetingText", comment: "A friendly greeting presented to the user when first opening the app.");
         
     }
 
