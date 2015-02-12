@@ -29,7 +29,7 @@
         <note>Class = "IBUIButton"; accessibilityLabel = "Continue"; ObjectID = "LXb-Ez-OLh";</note>
       </trans-unit>
       <trans-unit id="LXb-Ez-OLh.normalTitle">
-        <source>Continue??</source>
+        <source>Continue</source>
         <note>Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "LXb-Ez-OLh";</note>
       </trans-unit>
       <trans-unit id="m0m-89-4YV.accessibilityLabel">
@@ -39,10 +39,6 @@
       <trans-unit id="m0m-89-4YV.text">
         <source>This is placeholder text for the UI label.</source>
         <note>Class = "IBUILabel"; text = "This is placeholder text for the UI label."; ObjectID = "m0m-89-4YV";</note>
-      </trans-unit>
-      <trans-unit id="qQh-0N-CNq.text">
-        <source>Storyboard value</source>
-        <note>Class = "IBUITextView"; text = "Storyboard value"; ObjectID = "qQh-0N-CNq";</note>
       </trans-unit>
       <trans-unit id="xQG-JD-5oq.text">
         <source>Welcome!</source>
@@ -71,6 +67,17 @@
       <trans-unit id="Message_GreetingText">
         <source>Hello, 🌎! It's great to see you.</source>
         <note>A friendly greeting presented to the user when first opening the app.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationDemo/generated_table.strings" source-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="string_key">
+        <source>string_key</source>
+        <note>The table should be generated.</note>
       </trans-unit>
     </body>
   </file>
